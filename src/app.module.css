@@ -1,0 +1,18 @@
+
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.mensajeError {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
